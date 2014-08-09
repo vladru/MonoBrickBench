@@ -1,8 +1,13 @@
 ﻿// hw brickbench
 // benchmark test for NXT/EV3 and similar Micro Controllers
 // PL: C# build by Xamarin Studio 5.2. on runtime Mono 3.3.0
-// Autor: (C) Helmut Wunder 2013
+// Autor: (C) Helmut Wunder 2013, 2014
 // Ported to MonoBrick C# by Vlad Ruzov
+// freie Verwendung für private Zwecke
+// für kommerzielle Zwecke nur nach Genehmigung durch den Autor.
+// protected under the friendly Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+// http://creativecommons.org/licenses/by-nc-sa/3.0/
+// version 1.08
 
 // Please be note that code below is not good style c# code.
 // It has been ported from C so that the changes were minimal. 
