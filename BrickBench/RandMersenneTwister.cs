@@ -2,7 +2,7 @@
 
 namespace BrickBench
 {
-	public static class RandM
+	public static class RandMersenneTwister
 	{
 		static uint[] y = new uint[25];
 		static int index = 25 + 1;
@@ -44,4 +44,3 @@ namespace BrickBench
 		}
 	}
 }
-
